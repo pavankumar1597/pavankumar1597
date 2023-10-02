@@ -12,10 +12,6 @@ Software engineer, opensource . 💻💖☕
 - Problem Solver
 - Originally from ***India/Bangalore*** 
 
-## [ndryve.com](https://concert.exzatech.net/)  
-<img src="[[https://www.ndryve.net](https://www.ndryve.net/assets/img/logo.png)](https://www.ndryve.net/assets/img/logo.png)" width="170" height="100">
-![logo](https://github.com/pavankumar1597/pavankumar1597/assets/58086990/f8579e56-5bb5-4228-afa1-0e42b188de88)
-
 ## [CLick -> My Professional Projects on Resume](https://github.com/pavankumar1597/pavankumar1597/blob/master/Projects.md)
 
 
