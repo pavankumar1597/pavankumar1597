@@ -13,7 +13,7 @@ Software engineer, opensource . 💻💖☕
 - Originally from ***India/Bangalore*** 
 
 ## [ndryve.com](https://concert.exzatech.net/)  
-<img src="[[https://www.ndryve.net/](https://www.ndryve.net/assets/img/logo.png)](https://www.ndryve.net/assets/img/logo.png)" width="170" height="100">
+<img src="[[https://www.ndryve.net](https://www.ndryve.net/assets/img/logo.png)](https://www.ndryve.net/assets/img/logo.png)" width="170" height="100">
 
 ## [CLick -> My Professional Projects on Resume](https://github.com/pavankumar1597/pavankumar1597/blob/master/Projects.md)
 
